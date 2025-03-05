@@ -31,20 +31,43 @@
 </div>
 
 <br/><br/>
-
+<div>
+ 
 ## <img height="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />   Skills   <img height="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+<br>
 
 <div align="center">
-<!--   <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-  </div> -->
-  <div style="display: inline-block; vertical-align: top;">
-   <br>
-   <img src="https://skillicons.dev/icons?i=bootstrap,css,vite,django,flask,html,js,nextjs,nodejs,react,svelte,tailwind,typescript,figma" />
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,git,vscode,github,mysql,mongodb"/>
-   <br>
-  </div>
+<table>
+    <tr>
+        <td><strong>Frontend Technologies</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=bootstrap,css,html,js,react,svelte,nextjs,tailwind,vite&theme=dark"></td>
+    </tr>
+    <tr>
+        <td><strong>Backend Technologies</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=django,flask,nodejs&theme=dark"></td>
+    </tr>
+    <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,typescript&theme=dark"></td>
+    </tr>
+    <tr>
+        <td><strong>Database Technologies</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+    </tr>
+    <tr>
+        <td><strong>Developer Tools</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+    </tr>
+    <tr>
+        <td><strong>Design Tools</strong></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=figma&theme=dark"></td>
+    </tr>
+</table>
 </div>
+</div>
+
+
+
 
 
 <br/>
