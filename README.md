@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&background=010019BA&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+enthusiast.;I+explore+challenges+and+develop+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&background=010019BA&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+enthusiast.;I+explore+challenges+and+develop+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg) -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=100%>
 <br>
 <br/>
 <div align="center">
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
+<h1>Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <br> <img src="./assets/myname.svg"  alt="Abhishek Singh"/> </h1>
 
-
- <h3>A passionate software developer from India.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;DSA+Learner;Tech+Enthusiast;" alt="Typing SVG" /> 
 
 </div>
 
@@ -55,6 +54,6 @@
 <p align="left">
   
   <a href="https://codeforces.com/profile/vedant_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedant_patel" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vedantkavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantkavar" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/vedantkavar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantkavar" height="30" width="40" /></a>
 </p>
 
