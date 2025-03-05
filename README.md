@@ -4,7 +4,8 @@
 <br/>
 <div align="center">
 
-<img src="./myname.svg"  alt="Vedant Kavar"/></h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
+
 
  <h3>A passionate software developer from India.</h3>
 
